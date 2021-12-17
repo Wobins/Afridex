@@ -1,0 +1,74 @@
+body, html{
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    scroll-behavior: smooth;
+    font-family: 'Nunito', sans-serif;
+}
+
+img{
+    width: 400px;
+    height: 350px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#home{
+    background-image: url(images/cosmetics1.jpg);
+    opacity: .7;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    height: 70vh;
+}
+
+#home h1{
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+#about{
+    max-height: 500px;
+    margin-bottom: 150px;
+}
+
+#about img{
+    height: 500px;
+    width: 100%;
+    margin-bottom: 25px;
+}
+
+#about .about{
+    font-size: 25px;
+}
+
+#products .card{
+    margin: 20px auto;
+}
+
+
+.accueil{
+    color: #fff;
+    font-size: 2rem;
+    padding: 120px;
+}
+
+.heading{
+    font-size: 3.5rem;
+    display: inline-block;
+    border-bottom: 20px solid #f5f5f5;
+    margin: 20px;
+}
+
+.heading::after{
+    width: 20%;
+    border-top: 4px solid #f7f7f7;
+}
+
+footer a.mainPage{
+    color: inherit;
+    text-decoration: underline;
+}
