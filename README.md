@@ -1,6 +1,9 @@
 # Afridex
 A minimalistic website for a cosmetic company.
 
+This is link for a preview
+https://wobins.github.io/Afridex/
+
 
 This was my practical test to attend a ASP.NET web development bootcamp at Orange Digital Center, a Orange Cameroon brand.
 This website summary presents the company and its products. 
